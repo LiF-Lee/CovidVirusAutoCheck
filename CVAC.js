@@ -55,4 +55,4 @@ function doSubmit(url, token) {
         "rspns00": "Y",
         "deviceuuid": ""
     })).ignoreContentType(true).ignoreHttpErrors(true).post().text();
-}
+} 
