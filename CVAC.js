@@ -29,7 +29,7 @@ function response(room, msg, sender, isGroupChat, replier, imageDB, packageName)
 }
 
 importClass(org.jsoup.Jsoup);
-
+ 
 function doLogin(url) {
     var result = Jsoup.connect(CovidVirusCheck.baseURL + url).header(
         "Content-Type", "application/json"
