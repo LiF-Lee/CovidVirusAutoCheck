@@ -2,7 +2,7 @@ const CovidVirusCheck = {
     setting: {
         "schoolCode": "", //학교 코드
         "myName": "", //내 이름 (*암호화된 값)
-        "myBirth": "" //내 생년월일 (*암호화된 값)
+        "myBirth": "" //내 생년월일 (*암호화된 값) 
     },
     baseURL: "https://senhcs.eduro.go.kr/",
     subURL: [
