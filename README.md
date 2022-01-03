@@ -1,5 +1,10 @@
 # CovidVirusAutoCheck
-for Kakaotalk Bot
+for KakaoTalk Bot
+
+### - Warning
+```
+This Project has been Deprecated
+```
 
 # [사용 방법]
 
@@ -15,9 +20,9 @@ for Kakaotalk Bot
 
 • 밑으로 내리면 사이트에서 요청한 정보를 볼 수 있습니다.
 
-• birthdaay, name, orgcode 3가지를 복사합니다.
+• birthday, name, orgcode 3가지 매개변수 값을 복사합니다.
 
-• CVAC.js안의 내용을 아까 복사해둔 정보를 넣어주고 소스를 적용하세요.
+• CVAC.js 안에 아까 복사해둔 정보를 넣어주세요.
 
 # [Update Log]
 
